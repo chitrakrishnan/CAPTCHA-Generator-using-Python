@@ -1,0 +1,26 @@
+/*the book titles in the list should not be displayed in a serif font
+the header should use a different font than the list
+the text of header should be dark red*/
+h1{font-family: Arial;
+color: #700000;}
+/*change the <ol> tag to <ul> (and the closing </ol> to </ul>) and style the list items to have square bullet points*/
+#list li{list-style-type: square;
+font-family: garamond}
+
+
+/*instead of numbers, have the list items indexed by the alphabet*/
+#alphabets li{list-style-type: lower-alpha;
+  font-family: garamond;
+font-size: 25px;
+  font-weight: thin;
+  text-align: left;
+  color: black;
+}
+#triangle li{
+  list-style-image: url("https://prod-edxapp.edx-cdn.org/assets/courseware/v1/073e0b55b08d259174c48c569c6696d9/asset-v1:W3Cx+HTML5.0x+3T2017+type@asset+block/my_triangle.png");
+  font-family: helvetica;
+font-size: 25px;
+  font-weight: thin;
+  text-align: left;
+  color: black;
+}

@@ -1,0 +1,8 @@
+/*center the header*/
+h1{text-align: center;}
+/*space the list items at least 10 pixels from each other*/
+ul>li{padding-bottom: 10px;}
+/*space the list items at least 20 pixels from the left edge of the page*/
+li{margin-left: 20px;}
+ul{padding-top: 50px;}
+ol{padding-top: 50px;}
