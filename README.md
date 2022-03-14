@@ -1,2 +1,2 @@
 # CAPTCHA-Generator-using-Python
-edx
+CAPTCHA
